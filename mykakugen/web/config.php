@@ -13,7 +13,7 @@ define(USER, '');
 define(PASS, '');
 define(DB, '');
 
-define(ADMIN_EMAIL, 'arthur386234@gmail.com');
+define(ADMIN_EMAIL, 'xxxx@gmail.com');
 
 
 $delivery_hours_array = array(

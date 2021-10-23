@@ -6,14 +6,15 @@ define('SERVICE_SHORT_NAME', 'マイカクゲン');
 
 define('COPYRIGHT', '&copy; 2021 Miya');
 
-define('SITE_URL', 'http://localhost/dev/mykakugen/web/')
+define('SITE_URL', 'http://localhost/dev/mykakugen/web/');
 
-define(HOST, '');
-define(USER, '');
-define(PASS, '');
-define(DB, '');
+//Connect to DB
+define('HOST', '');
+define('USER', '');
+define('PASS', '');
+define('DB', '');
 
-define(ADMIN_EMAIL, 'xxxx@gmail.com');
+define('ADMIN_EMAIL', '');
 
 
 $delivery_hours_array = array(

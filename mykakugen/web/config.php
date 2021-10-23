@@ -6,7 +6,7 @@ define('SERVICE_SHORT_NAME', 'マイカクゲン');
 
 define('COPYRIGHT', '&copy; 2021 Miya');
 
-define('SITE_URL', 'login.php');
+define('SITE_URL', 'http://localhost/dev/mykakugen/web/')
 
 define(HOST, '');
 define(USER, '');

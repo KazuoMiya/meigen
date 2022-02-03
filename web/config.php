@@ -1,6 +1,6 @@
 <?php
 
-define('SERVICE_NAME', "格言リマインダー マイカクゲン");
+define('SERVICE_NAME', "Meigen Riminder");
 
 define('SERVICE_SHORT_NAME', 'マイカクゲン');
 

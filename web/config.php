@@ -14,7 +14,7 @@ define('USER', '');
 define('PASS', '');
 define('DB', '');
 
-define('ADMIN_EMAIL', '');
+define('ADMIN_EMAIL', 'test@test.com');
 
 
 $delivery_hours_array = array(

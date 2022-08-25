@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T05:05:25.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Wh_4jaAKaq9u03tH6jCo" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T06:29:29.402Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PRM7hJVypo-jRcwSBX1P" version="20.2.7" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="710" y="120" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="h9OHCqwM38FuyLcECadE-4" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="650" height="310" as="geometry" />
+          <mxGeometry x="360" y="280" width="680" height="310" as="geometry" />
         </mxCell>
         <mxCell id="h9OHCqwM38FuyLcECadE-5" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="610" width="300" height="150" as="geometry" />
@@ -71,6 +71,36 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="340" as="sourcePoint" />
             <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-25" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;アポ数&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-26" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;当日&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-28" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;訪問&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-29" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;提案&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-30" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;提案訪問&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-31" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;受注&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="785" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-32" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;単価&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-33" value="&lt;span style=&quot;color: rgb(3, 3, 3); font-family: NotoSansJP; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;金額想定&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h9OHCqwM38FuyLcECadE-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.971;entryY=0.323;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="h9OHCqwM38FuyLcECadE-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395" y="380" as="sourcePoint" />
+            <mxPoint x="445" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
